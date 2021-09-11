@@ -8,6 +8,7 @@ function add(number) {
     console.log(2 * number);
 }
 add(20);
+//function
 function added(num1, num2) {
     const total = num1 + num2;
     return total;
